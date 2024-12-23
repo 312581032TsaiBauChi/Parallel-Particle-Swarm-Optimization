@@ -16,8 +16,8 @@ We implement the PSO algorithm with numpy and parallelize it with `pthread`, `Op
 ### Clone this repo
 
 ```bash
-git clone git@github.com:leo27945875/parallel_pso.git
-cd parallel_pso
+git clone https://github.com/312581032TsaiBauChi/Parallel-Particle-Swarm-Optimization.git
+cd Parallel-Particle-Swarm-Optimization
 ```
 
 ### Build packages
